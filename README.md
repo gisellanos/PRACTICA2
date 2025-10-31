@@ -70,8 +70,4 @@ Por último, el programa muestra los resultados más importantes directamente en
 - Día con más sesiones.  
 - Campeón con más entrenamientos.  
 - Promedio de entrenamientos por día.  
-- Campeón con más actividad los fines de semana.  
-
----
-
-## 🧩 Ejemplo de salida en consola
+- Campeón con más actividad los fines de semana.
